@@ -1,0 +1,1 @@
+# akka-event-sourcing-sample
